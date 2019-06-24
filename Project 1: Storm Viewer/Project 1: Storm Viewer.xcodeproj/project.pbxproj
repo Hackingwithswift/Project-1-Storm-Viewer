@@ -12,6 +12,16 @@
 		0F6928A822C13598000526FB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F6928A622C13598000526FB /* Main.storyboard */; };
 		0F6928AA22C13598000526FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F6928A922C13598000526FB /* Assets.xcassets */; };
 		0F6928AD22C13598000526FB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F6928AB22C13598000526FB /* LaunchScreen.storyboard */; };
+		0F6928BF22C13710000526FB /* nssl0049.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F6928B522C13710000526FB /* nssl0049.jpg */; };
+		0F6928C022C13710000526FB /* nssl0046.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F6928B622C13710000526FB /* nssl0046.jpg */; };
+		0F6928C122C13710000526FB /* nssl0091.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F6928B722C13710000526FB /* nssl0091.jpg */; };
+		0F6928C222C13710000526FB /* nssl0045.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F6928B822C13710000526FB /* nssl0045.jpg */; };
+		0F6928C322C13710000526FB /* nssl0051.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F6928B922C13710000526FB /* nssl0051.jpg */; };
+		0F6928C422C13710000526FB /* nssl0041.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F6928BA22C13710000526FB /* nssl0041.jpg */; };
+		0F6928C522C13710000526FB /* nssl0042.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F6928BB22C13710000526FB /* nssl0042.jpg */; };
+		0F6928C622C13710000526FB /* nssl0043.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F6928BC22C13710000526FB /* nssl0043.jpg */; };
+		0F6928C722C13710000526FB /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F6928BD22C13710000526FB /* nssl0033.jpg */; };
+		0F6928C822C13710000526FB /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F6928BE22C13710000526FB /* nssl0034.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +32,16 @@
 		0F6928A922C13598000526FB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0F6928AC22C13598000526FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0F6928AE22C13598000526FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0F6928B522C13710000526FB /* nssl0049.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0049.jpg; sourceTree = "<group>"; };
+		0F6928B622C13710000526FB /* nssl0046.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0046.jpg; sourceTree = "<group>"; };
+		0F6928B722C13710000526FB /* nssl0091.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0091.jpg; sourceTree = "<group>"; };
+		0F6928B822C13710000526FB /* nssl0045.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0045.jpg; sourceTree = "<group>"; };
+		0F6928B922C13710000526FB /* nssl0051.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0051.jpg; sourceTree = "<group>"; };
+		0F6928BA22C13710000526FB /* nssl0041.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0041.jpg; sourceTree = "<group>"; };
+		0F6928BB22C13710000526FB /* nssl0042.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0042.jpg; sourceTree = "<group>"; };
+		0F6928BC22C13710000526FB /* nssl0043.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0043.jpg; sourceTree = "<group>"; };
+		0F6928BD22C13710000526FB /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
+		0F6928BE22C13710000526FB /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,8 +80,27 @@
 				0F6928A922C13598000526FB /* Assets.xcassets */,
 				0F6928AB22C13598000526FB /* LaunchScreen.storyboard */,
 				0F6928AE22C13598000526FB /* Info.plist */,
+				0F6928B422C13710000526FB /* Content */,
 			);
 			path = "Project 1: Storm Viewer";
+			sourceTree = "<group>";
+		};
+		0F6928B422C13710000526FB /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				0F6928B522C13710000526FB /* nssl0049.jpg */,
+				0F6928B622C13710000526FB /* nssl0046.jpg */,
+				0F6928B722C13710000526FB /* nssl0091.jpg */,
+				0F6928B822C13710000526FB /* nssl0045.jpg */,
+				0F6928B922C13710000526FB /* nssl0051.jpg */,
+				0F6928BA22C13710000526FB /* nssl0041.jpg */,
+				0F6928BB22C13710000526FB /* nssl0042.jpg */,
+				0F6928BC22C13710000526FB /* nssl0043.jpg */,
+				0F6928BD22C13710000526FB /* nssl0033.jpg */,
+				0F6928BE22C13710000526FB /* nssl0034.jpg */,
+			);
+			name = Content;
+			path = "../../../../../Downloads/HackingWithSwift-master/project1-files/Content";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,8 +161,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0F6928C022C13710000526FB /* nssl0046.jpg in Resources */,
+				0F6928C722C13710000526FB /* nssl0033.jpg in Resources */,
+				0F6928C322C13710000526FB /* nssl0051.jpg in Resources */,
+				0F6928C122C13710000526FB /* nssl0091.jpg in Resources */,
+				0F6928C622C13710000526FB /* nssl0043.jpg in Resources */,
+				0F6928C822C13710000526FB /* nssl0034.jpg in Resources */,
+				0F6928BF22C13710000526FB /* nssl0049.jpg in Resources */,
+				0F6928C422C13710000526FB /* nssl0041.jpg in Resources */,
+				0F6928C522C13710000526FB /* nssl0042.jpg in Resources */,
 				0F6928AD22C13598000526FB /* LaunchScreen.storyboard in Resources */,
 				0F6928AA22C13598000526FB /* Assets.xcassets in Resources */,
+				0F6928C222C13710000526FB /* nssl0045.jpg in Resources */,
 				0F6928A822C13598000526FB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -282,7 +331,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Project 1: Storm Viewer/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -290,6 +341,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "kp.Project-1--Storm-Viewer";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -299,7 +351,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Project 1: Storm Viewer/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -307,6 +361,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "kp.Project-1--Storm-Viewer";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
