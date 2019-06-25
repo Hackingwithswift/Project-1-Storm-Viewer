@@ -13,6 +13,25 @@ class ViewController: UITableViewController {
     var pictures = [String]()
     
     
+    override func viewWillAppear(_ animated: Bool) {
+        
+        let str = "veera babu mulugu"
+        let reverse = String(str.reversed())
+        print(reverse)
+        
+        
+        
+        
+        let str1 = "Hello, world!"
+        let reversed = String(str1.reversed())
+        print(reversed)
+
+        
+        
+    }
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
