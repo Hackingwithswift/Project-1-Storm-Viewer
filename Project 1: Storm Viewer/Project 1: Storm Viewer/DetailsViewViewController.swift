@@ -13,14 +13,17 @@ class DetailsViewViewController: UIViewController {
     @IBOutlet weak var imageView: UIImageView!
     var selectImage:String?
     
-    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        title = selectImage
+    
+        navigationItem.largeTitleDisplayMode = .never//
+
         
         
-        print(selectImage ?? (Any).self)
+        
         if let imageToLoad = selectImage {
             imageView.image  = UIImage(named: imageToLoad)
         }
