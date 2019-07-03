@@ -30,7 +30,8 @@ class ViewController: UITableViewController {
         // Do any additional setup after loading the view.
         title = "Storm Viewer"
         
-        
+
+
         
         
         let fm = FileManager.default
@@ -51,6 +52,10 @@ class ViewController: UITableViewController {
         
         
     }
+    
+  
+    
+    
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return pictures.count
     }
